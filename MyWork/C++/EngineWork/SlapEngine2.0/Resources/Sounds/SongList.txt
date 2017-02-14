@@ -1,0 +1,8 @@
+..\\Resources\\Sounds\\SoundAssets\\song1.wav
+..\\Resources\\Sounds\\SoundAssets\\song2.wav
+..\\Resources\\Sounds\\SoundAssets\\song3.wav
+..\\Resources\\Sounds\\SoundAssets\\song4.wav
+..\\Resources\\Sounds\\SoundAssets\\song5.wav
+..\\Resources\\Sounds\\SoundAssets\\copyright1.wav
+..\\Resources\\Sounds\\SoundAssets\\copyright2.wav
+..\\Resources\\Sounds\\SoundAssets\\win2.wav

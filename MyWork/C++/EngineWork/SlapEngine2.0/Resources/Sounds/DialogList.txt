@@ -1,0 +1,16 @@
+..\Resources\Sounds\SoundAssets\dialog1.wav
+..\Resources\Sounds\SoundAssets\dialog2.wav
+..\Resources\Sounds\SoundAssets\dialog3.wav
+..\Resources\Sounds\SoundAssets\dialog4.wav
+..\Resources\Sounds\SoundAssets\dialog5.wav
+..\Resources\Sounds\SoundAssets\dialog6.wav
+..\Resources\Sounds\SoundAssets\dialog7.wav
+..\Resources\Sounds\SoundAssets\dialog8.wav
+..\Resources\Sounds\SoundAssets\dialog9.wav
+..\Resources\Sounds\SoundAssets\dialog10.wav
+..\Resources\Sounds\SoundAssets\dialog11.wav
+..\Resources\Sounds\SoundAssets\dialog12.wav
+..\Resources\Sounds\SoundAssets\dialog13.wav
+..\Resources\Sounds\SoundAssets\dialog14.wav
+..\Resources\Sounds\SoundAssets\dialog15.wav
+..\Resources\Sounds\SoundAssets\dialog16.wav
