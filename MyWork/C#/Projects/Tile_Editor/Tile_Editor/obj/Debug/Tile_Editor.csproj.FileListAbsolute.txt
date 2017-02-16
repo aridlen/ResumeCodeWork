@@ -1,0 +1,30 @@
+F:\projects vs\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.exe.config
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.csprojResolveAssemblyReference.cache
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Form1.resources
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Properties.Resources.resources
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Tool.resources
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.csproj.GenerateResource.Cache
+F:\projects vs\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.exe
+F:\projects vs\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.pdb
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.exe
+F:\projects vs\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.pdb
+F:\Windows Tool\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.exe.config
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.exe
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.pdb
+F:\Windows Tool\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.exe
+F:\Windows Tool\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.pdb
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.csprojResolveAssemblyReference.cache
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Form1.resources
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Properties.Resources.resources
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Tool.resources
+F:\Windows Tool\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.csproj.GenerateResource.Cache
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.exe.config
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.exe
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.pdb
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.exe
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\bin\Debug\Tile_Editor.pdb
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.csprojResolveAssemblyReference.cache
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Form1.resources
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Properties.Resources.resources
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.Tool.resources
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\Tile_Editor\Tile_Editor\obj\Debug\Tile_Editor.csproj.GenerateResource.Cache

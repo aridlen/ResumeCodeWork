@@ -1,0 +1,36 @@
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\projects vs\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\projects vs\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\projects vs\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\projects vs\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Old_School_Files\Windows Tool\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\RidlenAaronProj1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Resume\ResumeCodeWork\MyWork\C#\Projects\RidlenAaronProj1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
