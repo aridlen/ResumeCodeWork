@@ -1,4 +1,11 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 #include<d3dcompiler.h>
 #include<d3d11shader.h>
 #include<fstream>

@@ -1,4 +1,11 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 #include "ParticleShaderResource.h"
 #include "ParticleSystem.h"
 class EffectsGenerator

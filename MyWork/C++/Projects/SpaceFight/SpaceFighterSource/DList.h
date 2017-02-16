@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 template<typename List>
 class DList
 {

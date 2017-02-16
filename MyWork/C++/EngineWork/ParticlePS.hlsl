@@ -1,5 +1,11 @@
 //#include "LightHelper.hlsli"
-
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 Texture2D shaderTexture;
 SamplerState SampleType;
 struct PixelInputType

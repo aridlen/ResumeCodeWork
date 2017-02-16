@@ -1,4 +1,12 @@
-﻿using System;
+﻿///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: Johnathan Burnsides   //
+//      Date:  10/24/2016                //
+//                                       //
+///////////////////////////////////////////
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +30,7 @@ namespace FullSailAFI.SteeringBehaviors.StudentAI
         }
         #endregion
 
-        #region TODO Suggested helper methods
+        #region helper methods
 
         private void CalculateAverages()
         {
@@ -83,7 +91,7 @@ namespace FullSailAFI.SteeringBehaviors.StudentAI
 
         #endregion
 
-        #region TODO
+        #region LabFunctions
 
         public virtual void Update(float deltaTime)
         {

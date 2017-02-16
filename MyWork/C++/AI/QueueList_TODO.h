@@ -1,4 +1,11 @@
-
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: Johnathan Burnsides   //
+//      Date:  10/24/2016                //
+//                                       //
+///////////////////////////////////////////
 #ifndef _FULLSAIL_AI_FUNDAMENTALS_QUEUELIST_TODO_H_
 #define _FULLSAIL_AI_FUNDAMENTALS_QUEUELIST_TODO_H_
 

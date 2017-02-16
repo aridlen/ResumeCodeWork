@@ -1,4 +1,11 @@
-
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: Larri Nori            //
+//      Date:  AUGUST 2016               //
+//                                       //
+///////////////////////////////////////////
 Texture2D m_texture : register(t0);
 Texture2D m_texture2 : register(t1);
 SamplerState filters[2] : register(s0);

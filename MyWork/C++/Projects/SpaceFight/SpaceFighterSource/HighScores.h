@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 #include "IBaseState.h"
 
 #include "Player.h"
@@ -20,13 +28,11 @@ public:
 	void Enter();
 	void Exit();
 	void Init();
-	/*bool NameSortAscending(PlayInfo& _a, PlayInfo& _b);
-	bool NameSortDescending(PlayInfo& _a, PlayInfo _b);
-	
-	bool ScoreDescending(PlayInfo& _a, PlayInfo& _b);
-	bool DifficultyHardest(PlayInfo& _a, PlayInfo& _b);
-	void DisplayScore(PlayInfo& _info);*/
 	void SaveText();
+	//ACCESSORS
     static vector<PlayInfo>& GetHighScores(){ return final_scores; }
+	//MUTATORS
+
+
 };
 

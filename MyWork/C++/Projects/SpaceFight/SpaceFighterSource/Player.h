@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 #include "BaseObject.h"
 #include"DList.h"
 class Missle;
@@ -8,10 +16,6 @@ struct PlayInfo
 	int score;
 	char diff[8];
 	
-	/*bool operator<(PlayInfo& _x)
-	{
-
-	}*/
 };
 class Player :
 	public BaseObject
@@ -31,20 +35,21 @@ public:
 
 	Player(Player const& _cpy);
 	Player& operator=(Player const& _assign);
+	//ACCESSORS
 	const char* const GetName(){ return name.c_str(); }
 	int GetScore()const { return score; }
 	const char* const GetDiff(){ return difficulty.c_str(); }
 	Missle* GetMissile() const { return m; }
 	int GetLP()const{ return lifepoints; }
 	string GetLD()const{ return lifed.c_str(); }
-
+	//MUTATORS
 	void SetLD(const char* const _display){ lifed=_display; }
 	void SetLP(int _lp){ lifepoints = _lp; }
 	void SetName(const char* const _name){ name = _name; }
 	void SetScore(int _score){ score = _score; }
 	void SetDiff(string _diff){ difficulty = _diff; }
 	void SetMissile(Missle* _m){ m = _m; }
-	
+	///////////////////////////////////
 	void Input(DList<BaseObject*>& _p);
 	void Update(int _frame);
 	void Render()const;

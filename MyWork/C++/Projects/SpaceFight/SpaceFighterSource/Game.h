@@ -1,5 +1,12 @@
 #pragma once
-
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 enum STATE_IDS{ MENU_STATE = 0,PLAY_STATE,HIGHSCORES_STATE,MAX_STATES };
 class BaseObject;
 class IBaseState;
@@ -27,8 +34,10 @@ public:
 	void Input();
 	void Update(int _Frame);
 	void Render() const;
-	static void ChangeState(STATE_IDS _state);
+	//ACCESSORS
 	static char& GetCheats() { return cheats; }
+	//MUTATORS
+	static void ChangeState(STATE_IDS _state);
 	static void SetCheats(char _cheats){ cheats = _cheats; }
 };
 

@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 #include "IBaseState.h"
 #include "Cell.h"
 #include"DList.h"

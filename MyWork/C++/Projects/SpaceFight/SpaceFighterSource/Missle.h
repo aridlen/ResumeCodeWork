@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 #include "BaseObject.h"
 #include"DList.h"
 #define velX velVec[0]
@@ -8,18 +16,18 @@ class Missle :
 {
 private:
 	vector<int> velVec;
-	//bool MissAlive = false;
 
 public:
 	Missle();
 	~Missle();
+	//ACCESSORS
 	int GetXvel()const { return velX; }
 	int GetYvel() const { return VelY; }
-	//bool GetLife() const { return MissAlive; }
 	
+	//MUTATORS
 	void SetVelocity(int _x, int _y){ velX = _x; VelY = _y; }
-	//void SetLife(bool _life){ MissAlive = _life; }
 
+//////////////////////////////////////////////////
 	void RenderingLife();
 	void Input(DList<BaseObject*>&_p);
 	void Update(int _frame);

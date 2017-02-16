@@ -1,4 +1,11 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 #include"stdafx.h"
 #include"CollisionDefines.h"
 #include "BaseModel.h"
@@ -30,13 +37,18 @@ public:
 	void Initialize(ResourceManager* resources);
 	void Update(float dt);
 	void Shutdown();
-	Square* getCurrPosition(float x, float y, float z);
+
 
 	
 	//ACCESSORS
-	
+	Square* getCurrPosition(float x, float y, float z);
+	std::vector<NavNode*> GetListNodes() { return m_ListofNavNodes; }
+	vector<Square*> GetBorder() { return m_borderList; }
+	vector<Square*> GetSquares() { return m_SquareList; }
+	vector<Square*> GetWalkableSquares() { return m_walkableList; }
 	//MUTATORS
-	
+	void SetSquareActive(Square* data);
+	void SetSquareDeactive(Square* data);
 	//HELPERS
 	void clearNodeList();
 	
@@ -45,12 +57,8 @@ public:
 	bool CompareXMFLOAT3(XMFLOAT3 lhs, XMFLOAT3 rhs);
 	//unsigned char GetWeight()const { return weight; }
 	//////////////////////
-	std::vector<NavNode*> GetListNodes() { return m_ListofNavNodes; }
-	vector<Square*> GetBorder() { return m_borderList; }
-	vector<Square*> GetSquares() { return m_SquareList; }
-	vector<Square*> GetWalkableSquares() { return m_walkableList; }
-	void SetSquareActive(Square* data);
-	void SetSquareDeactive(Square* data);
+	
+	
 	void FindCurrentSquare(Entity* obj);
 	XMFLOAT3 SpawnLocation();
 };

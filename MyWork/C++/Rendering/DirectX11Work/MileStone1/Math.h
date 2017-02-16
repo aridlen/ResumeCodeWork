@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: Larri Nori            //
+//      Date:  AUGUST 2016               //
+//                                       //
+///////////////////////////////////////////
 #define PI 3.14159F
 struct VERTEX4
 {

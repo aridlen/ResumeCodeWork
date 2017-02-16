@@ -1,4 +1,10 @@
-
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 cbuffer MatrixBuffer
 {
     matrix world;

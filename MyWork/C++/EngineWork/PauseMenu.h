@@ -1,4 +1,11 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 #include "UIPrinter.h"
 #include "GamePad.h"
 #include"OptionsScreen.h"

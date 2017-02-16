@@ -1,11 +1,12 @@
-﻿  compilation header save succeeded; see E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\MileStone1\Trivial_PS.csh
-  compilation object save succeeded; see E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\x64\Debug\Trivial_PS.cso
-  compilation header save succeeded; see E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\MileStone1\Trivial_VS.csh
-  compilation object save succeeded; see E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\x64\Debug\Trivial_VS.cso
-  compilation header save succeeded; see E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\MileStone1\Trivial_VS_GRID.csh
-  compilation object save succeeded; see E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\x64\Debug\Trivial_VS_GRID.cso
+﻿  compilation header save succeeded; see E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\MileStone1\Trivial_PS.csh
+  compilation object save succeeded; see E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\x64\Debug\Trivial_PS.cso
+  compilation header save succeeded; see E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\MileStone1\Trivial_VS.csh
+  compilation object save succeeded; see E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\x64\Debug\Trivial_VS.cso
+  compilation header save succeeded; see E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\MileStone1\Trivial_VS_GRID.csh
+  compilation object save succeeded; see E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\x64\Debug\Trivial_VS_GRID.cso
   XTime.cpp
   main.cpp
   Generating Code...
-  MileStone1.vcxproj -> E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\x64\Debug\MileStone1.exe
-  MileStone1.vcxproj -> E:\Resume\ResumeCodeWork\C++\Rendering\MileStone3\x64\Debug\MileStone1.pdb (Full PDB)
+  LINK : E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\x64\Debug\MileStone1.exe not found or not built by the last incremental link; performing full link
+  MileStone1.vcxproj -> E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\x64\Debug\MileStone1.exe
+  MileStone1.vcxproj -> E:\Resume\ResumeCodeWork\MyWork\C++\Rendering\DirectX11Work\x64\Debug\MileStone1.pdb (Full PDB)

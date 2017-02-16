@@ -1,5 +1,12 @@
 #pragma once
-//#include"BaseObject.h"
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 template<typename offset, typename symbol>
 struct Cell
 {
@@ -11,18 +18,19 @@ struct Cell
 	Cell(offset _x, offset _y, System::ConsoleColor _fg, System::ConsoleColor _bg, symbol _sym);
 
 	bool Show(int _left, int _top) const;
+	///ACCESSORS
 	offset GetX()const{ return oX; }
 	offset GetY()const { return oY; }
 	System::ConsoleColor GetFG()const{ return fg; }
 	System::ConsoleColor GetBG()const { return bg; }
 	symbol GetSYM()const { return sym; }
-
+	//MUTATORS
 	void SetOX(offset _ox){ oX = _ox; }
 	void SetOY(offset _oy){ oY = _oy; }
 	void SetFG(System::ConsoleColor _fg){ fg = _fg; }
 	void SetBG(System::ConsoleColor _bg){ bg = _bg; }
 	void SetSYM(symbol _sym){ sym = _sym; }
-
+	///////////////////////////
 	int operator[](int _indexX);
 	const int operator[](int _indexY)const;
 

@@ -1,4 +1,12 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: TJ Davis              //
+//      Date:  AUGUST 2015               //
+//                                       //
+///////////////////////////////////////////
 #include"DList.h"
 #include "Cell.h"
 class BaseObject
@@ -20,6 +28,7 @@ public:
 	BaseObject& operator=(BaseObject const& _cpy);
 	virtual ~BaseObject();
 	virtual void Render() const;
+	//ACCESSORS
 	int GetX(){ return x; }
 	int GetY(){ return y; }
 	System::ConsoleColor GetFB()const { return fg; }
@@ -30,7 +39,7 @@ public:
 	 bool GetLife()const { return alive; }
 	 int CellSize()const{ return imageobj.size(); }
 
-
+	 //MUTATORS
 	void SetX(int _x) { x = _x; }
 	void SetY(int _y){ y = _y; }
 	void SetLife(bool _live){ alive = _live; }
@@ -39,7 +48,7 @@ public:
 	void SetImage(const char* const _image);
 	void SetW(unsigned int _w){ width = _w; }
 	void SetH(unsigned int _h){ height = _h; }
-	
+	//////////////////////////////////////////////////
 	bool NewCollision(BaseObject* _p, int _x, int _y);
 	
 	

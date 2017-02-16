@@ -1,3 +1,11 @@
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: Larri Nori            //
+//      Date:  AUGUST 2016               //
+//                                       //
+///////////////////////////////////////////
 struct INPUT_VERTEX
 {
 	float2 coordinate : POSITION;
@@ -24,13 +32,12 @@ OUTPUT_VERTEX main( INPUT_VERTEX fromVertexBuffer )
 	sendToRasterizer.projectedCoordinate.w = 1;
 	
 	sendToRasterizer.projectedCoordinate.xy = fromVertexBuffer.coordinate.xy;
-		
-	// TODO : PART 4 STEP 4
+
 	sendToRasterizer.projectedCoordinate.xy += constantOffset;
 	
-	// TODO : PART 3 STEP 7
+
 	sendToRasterizer.colorOut = constantColor;
-	// END PART 3
+	
 
 	return sendToRasterizer;
 }

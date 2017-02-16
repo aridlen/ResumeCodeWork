@@ -1,6 +1,14 @@
 #pragma once
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//      Date:  01/02/2017                //
+//                                       //
+///////////////////////////////////////////
 #define TRANSPARENCY 0.02F
 
+//INDEX OF EFFECTS LIST
 enum ParticleEffect
 {
 	INPLACE,RISING,FALLING,EXPLOSIVE,BLOOD,SPARK

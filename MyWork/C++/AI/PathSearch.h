@@ -1,4 +1,11 @@
-
+///////////////////////////////////////////
+//                                       //
+//       THIS IS THE WORK OF:            //
+//     Programmer: Aaron Ridlen          //
+//     Instructor: Johnathan Burnsides   //
+//      Date:  10/24/2016                //
+//                                       //
+///////////////////////////////////////////
 #ifndef _FULLSAIL_AI_PATH_PLANNER_PATH_SEARCH_H_
 #define _FULLSAIL_AI_PATH_PLANNER_PATH_SEARCH_H_
 
